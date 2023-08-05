@@ -33,13 +33,14 @@ This line chart gives an idea of the COVID-19 trends among the past few years, w
 ## Single value charts. 
 ![img5](6.png)
 ![img6](7.png)
- 
+![img8](8.png)
 The single value charts give the stats of the year 2022, specifically the number hospitalized, number of people admitted to ICU and the most affected race. This design principle used here closure. 
 
 <br>
 
 ## The Dashboard
-![img8](8.png)
+![img89](9.png)
+
 From the dashboard we can observe that the number of COVID-19 cases have dropped exponentially kudos to the efforts of medical teams all over the world. But to reflect upon the past and derive insight from the areas where we lacked can help surpass another pandemic, if it ever occurs in the near future. We haven’t yet identified what the unknown races are, and other missing reports on this report. Special care should be given to people who are in the age groups of 50-59 and beyond as they have weaker immune systems, thus contracting the disease faster. Immune treatments must be provided from a young age to such races where the death toll is higher.  
 
 
