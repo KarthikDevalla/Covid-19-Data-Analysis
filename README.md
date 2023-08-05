@@ -10,8 +10,6 @@ In this figure we can observe that the most deaths occurred in the age group 50-
 
 ## Death Numbers by Race
 
-<br> 
-
  ![img2](3.png)
 This table above gives a basic idea of how the deaths are distributed by Race.  The highest number of deaths recorded are from an unknown race/ race that couldn’t be identified with 174,510 and White, Non-Hispanic follows it with 112, 682. The least deaths that occurred from a particular race is Native Hawaiian/Other Pacific Islander, Non-Hispanic with 868 deaths. It is important for the surveyors or any other data procurers to identify the unknown race, and give related information to certain individuals or organizations to make decisions that affect the lives of people in case a similar cataclysm strikes in future. 
 
