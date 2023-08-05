@@ -3,7 +3,7 @@
 
 
 ## Death numbers by Age Group and Gender
- 
+ ![img](2.png)
 
 In this figure we can observe that the most deaths occurred in the age group 50-59 years, and it can also be deduced that the most affected people are mostly males. Age groups 30-39 and 40-49 have similar death numbers, even when closely inspected in the case of gender there isn’t much difference. The most number of female deaths compared to males can be seen in the age group 20-29. The design principle used here is Similarity, grouping ages groups and genders together to give an easier perspective on the statistics. Used colors to differentiate the genders and other categories. 
 Death Numbers by Race
