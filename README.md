@@ -1,4 +1,5 @@
 # Covid-19-Data-Analysis
+## Detailed analysis of the COVID-19; data derived from [CDC](https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf/explore/query/SELECT%0A%20%20%60cdc_case_earliest_dt%60%2C%0A%20%20%60cdc_report_dt%60%2C%0A%20%20%60pos_spec_dt%60%2C%0A%20%20%60onset_dt%60%2C%0A%20%20%60current_status%60%2C%0A%20%20%60sex%60%2C%0A%20%20%60age_group%60%2C%0A%20%20%60race_ethnicity_combined%60%2C%0A%20%20%60hosp_yn%60%2C%0A%20%20%60icu_yn%60%2C%0A%20%20%60death_yn%60%2C%0A%20%20%60medcond_yn%60/page/filter)
 
 
 
